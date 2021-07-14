@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150"
+   width="160"
    height="32"
-   viewBox="0 0 150 32"
+   viewBox="0 0 160 32"
    version="1.1"
    id="svg3729"
    sodipodi:docname="semem-logo-transparent.svg"
@@ -39,13 +39,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="1017"
      id="namedview3731"
      showgrid="false"
-     inkscape:zoom="3.53"
-     inkscape:cx="109.51293"
-     inkscape:cy="14.575614"
-     inkscape:window-x="1912"
+     inkscape:zoom="7.06"
+     inkscape:cx="84.978485"
+     inkscape:cy="8.4612165"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3729" />
@@ -71,7 +71,7 @@
      style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09989227mm" />
   <path
      inkscape:connector-curvature="0"
-     d="M 124.16432,30.203354 V 2.2335193 h 9.27 l 1.59827,21.0173357 v 4.075602 h 0.95897 v -4.075602 l 1.59828,-21.0173357 h 9.27 V 30.203354 h -4.79483 v -18.69983 l 0.47948,-6.3931071 h -0.95896 L 139.50777,30.203354 H 131.5963 L 129.43863,5.1104169 h -0.95896 l 0.47948,6.3931071 v 18.69983 z"
+     d="M 132.16432,30.203354 V 2.2335193 h 9.27 l 1.59827,21.0173357 v 4.075602 h 0.95897 v -4.075602 l 1.59828,-21.0173357 h 9.27 V 30.203354 h -4.79483 v -18.69983 l 0.47948,-6.3931071 h -0.95896 L 147.50777,30.203354 H 139.5963 L 137.43863,5.1104169 h -0.95896 l 0.47948,6.3931071 v 18.69983 z"
      id="4"
      style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09989227mm" />
 </svg>
