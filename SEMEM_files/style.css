@@ -10,7 +10,7 @@
 	--colorreallygrey: #46576B;
 	--colorlightgrey: #dddddd;
 	--sepstyle: solid 1.5px var(--colord);
-	--emfendblur: blur(9px);
+	--sememblur: blur(9px);
 }
 
 html {
@@ -266,7 +266,7 @@ section {
 	animation: fadeInAnimation ease-in 3s 3s forwards;
 }
 
-@keyframes emfendAnimation {
+@keyframes sememAnimation {
 	0% {
 		transform: translate(0px) rotate(0deg) scale(0.2, 0.2);
 		transform-origin: 50% 50%;
@@ -281,18 +281,18 @@ section {
 	60% {
 		transform: translate(0px) rotate(0deg) scale(0.2, 0.2);
 		transform-origin: 50% 50%;
-		filter: var(--emfendblur);
+		filter: var(--sememblur);
 		opacity: 1;
 	}
 	100% {
 		transform: translate(30%) rotate(90deg) scale(2.2, 2.2);
 		transform-origin: 25% 50%;
-		filter: var(--emfendblur);
+		filter: var(--sememblur);
 		opacity: 1;
 	}
 }
 
-#emfend-container {
+#semem-container {
 	width: 100%;
 	height: 100%;
 	position: absolute;
@@ -303,7 +303,7 @@ section {
 	align-items: center;
 	overflow: visible;
 	margin: 0;
-	animation: emfendAnimation ease-in-out 4s forwards;
+	animation: sememAnimation ease-in-out 4s forwards;
 	opacity: 0;
 }
 
@@ -316,7 +316,7 @@ section {
 	}
 }
 
-#emfend-container img {
+#semem-container img {
 	display: block;
 	margin: 0;
 	width: 100%;
@@ -545,7 +545,7 @@ footer {
 		padding: 24px 24px;
 	}
 	:root {
-		--emfendblur: blur(30px);
+		--sememblur: blur(30px);
 	}
 	#hero {
 		font-size: 36px;
