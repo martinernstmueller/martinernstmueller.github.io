@@ -7,7 +7,7 @@
 	--colorreallygrey: #46576B;
 	--colorlightgrey: #dddddd;
 	--sepstyle: solid 1.5px var(--colord);
-	--sememblur: blur(9px);
+	--semmblur: blur(9px);
 }
 
 html {
